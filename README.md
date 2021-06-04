@@ -12,3 +12,7 @@ i did't do either of those, so now it is a mess!
 it's not 100% responsive, and it needs some seirouse reorganization.
 but i made as responsive as i could and it works perfect in 375px wide mobile screens and 1440px wide screens and pretty much all screen sizes exept for some cases.
 i need to come back to this project and organize it and fix the little bugs in responsiveness, but at this point i need to take brake from it and learn how to love it again :)
+
+
+oh i forgot to mention that i just started working with git and github. so sorry for the messy repo, i don't know how to creat folders. i know it sounds kind of lame but
+i couldn't find a good tutorial on that. so i make the folders later. 
